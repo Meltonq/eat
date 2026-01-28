@@ -1,0 +1,14 @@
+{
+  "name": "eat",
+  "version": "0.1.0",
+  "description": "AI cook Telegram bot MVP",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "lint": "node -e \"console.log('no lint configured');\""
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
